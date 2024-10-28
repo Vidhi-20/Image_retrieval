@@ -1,0 +1,5 @@
+torch               # PyTorch for deep learning and DBN implementation
+torchvision         # For CIFAR-10 dataset and image transformations
+scikit-learn        # For cosine similarity calculations
+streamlit           # For building the web interface
+Pillow              # For image loading and processing
